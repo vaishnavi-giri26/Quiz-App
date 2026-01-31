@@ -14,3 +14,14 @@ to practice core web development concepts.
 -HTML
 -CSS
 -JavaScript
+
+##Purpose:
+This project was created to practice and improve front-end web development
+skilss using basic technologies.
+
+##Future Improvements:
+-Add more questions
+-Show final score
+-Add Timer for each question
+-Improve UI design
+
